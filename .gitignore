@@ -1,0 +1,4 @@
+# ignore input/output folders
+base_model/
+prepared/
+reprojected/
